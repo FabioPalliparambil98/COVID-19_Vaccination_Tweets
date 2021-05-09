@@ -7,7 +7,7 @@ The file structure is as follows:
 
 - combined_vaccinationtweets.csv: It contains the Data collected from Twitter API
 
-- cleaned_vaccination_tweet.csv: It contains the cleaned combined_generaltweets.csv
+- cleaned_vaccination_tweet.csv: It contains the cleaned combined_vaccinationtweets.csv
 
 - The methods used to collect the data is the following repository link: https://github.com/FabioPalliparambil98/Scrapped_Data_Cleaning/blob/main/COVID19_Vaccination_DataCollector.ipynb
 
